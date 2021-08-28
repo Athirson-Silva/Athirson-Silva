@@ -4,14 +4,15 @@
 - 🌱 I’m currently learning Html, CSS, JS and Phyton
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Frogs are amazing 
--  <img align="right" alt="Golden Boy" src="https://lh3.googleusercontent.com/proxy/m4BD-QME8lecuN4q8bL4LW6xnhWoFewrMmbWHG6xVSx_Z0xXYud59plSWMNjVvE2ueFQRMxiyQ5MXrbdoaeel7xCvMEvMzxwyPAikpYR7IbWkOysqlH2CLQ">
+ 
+     <img align="bottom" alt="Golden Boy" src="https://lh3.googleusercontent.com/proxy/m4BD-QME8lecuN4q8bL4LW6xnhWoFewrMmbWHG6xVSx_Z0xXYud59plSWMNjVvE2ueFQRMxiyQ5MXrbdoaeel7xCvMEvMzxwyPAikpYR7IbWkOysqlH2CLQ">
 
   ##
   
  <div>
   <a href="https://github.com/Athirson-Silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Athirson-Silva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athirson-Silva&layout=compact&langs_count=7&theme=github_dark"/>
+  <img align="left" height="180em" width="600em" src="https://github-readme-stats.vercel.app/api?username=Athirson-Silva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img align-"right" height="180em" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athirson-Silva&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
   ##
