@@ -1,7 +1,7 @@
 ### Howdy! Stay a while and listen!  🐸
 
 - 🔭 I’m currently studying System Analysis and Development at Mackenzie
-- 🌱 I’m currently learning Html, CSS, JS and Phyton
+- 🌱 I’m currently learning Html, CSS, JS and Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Frogs are amazing 
  
