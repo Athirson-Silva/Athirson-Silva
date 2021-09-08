@@ -6,12 +6,6 @@
 - ⚡ Fun fact: Frogs are amazing 
  
      <img align="bottom" alt="Golden Boy" src="https://media.tenor.co/videos/8f8c5eca7332233568cfa8ab62682c52/mp4">
-     
-     <video controls>
-
-    <source src="https://media.tenor.co/videos/8f8c5eca7332233568cfa8ab62682c52/mp4" type="video/mp4">
-
-   </video>
 
   ##
   
