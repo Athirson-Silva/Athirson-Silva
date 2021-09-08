@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Frogs are amazing 
  
-     <img align="bottom" alt="Golden Boy" src="https://lh3.googleusercontent.com/proxy/m4BD-QME8lecuN4q8bL4LW6xnhWoFewrMmbWHG6xVSx_Z0xXYud59plSWMNjVvE2ueFQRMxiyQ5MXrbdoaeel7xCvMEvMzxwyPAikpYR7IbWkOysqlH2CLQ">
+     <img align="bottom" alt="Golden Boy" src="https://i.gifer.com/8Yyg.gif">
 
   ##
   
