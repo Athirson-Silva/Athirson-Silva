@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Frogs are amazing 
  
     <div align="center">
-        <img src="https://24.media.tumblr.com/d6951107d7436c006bffd4e485eefc4d/tumblr_mqu238Cng11rfw7flo1_400.gif" alt="Golden-Boy>
+        <img src="https://24.media.tumblr.com/d6951107d7436c006bffd4e485eefc4d/tumblr_mqu238Cng11rfw7flo1_400.gif" alt="Golden-Boy">
      </div>
 
   ##
