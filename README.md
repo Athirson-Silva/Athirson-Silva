@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning Html, CSS, JS and Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Frogs are amazing 
+
+### Three rhymes that define me
+
+ - <a href="https://www.youtube.com/watch?v=Z3CnfFQENkw">I'm dying of thirst</a>
+ - <a href="https://www.youtube.com/watch?v=4FO93sgY3S4">Your lines doesn't need to be great or bad, they just need to be yours</a>
+ - <a href="https://www.youtube.com/watch?v=NM2N3-5NBtE" style="color:white;">Time doesn't stop, so neither do I</a>
  
     <div align="center">
         <img src="https://24.media.tumblr.com/d6951107d7436c006bffd4e485eefc4d/tumblr_mqu238Cng11rfw7flo1_400.gif" alt="Golden-Boy">
