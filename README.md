@@ -12,7 +12,7 @@
  - <a href="https://www.youtube.com/watch?v=NM2N3-5NBtE" style="color:white;">Time doesn't stop, so neither do I</a>
  
     <div align="center">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDfdn7jnUNNCXbGYjhHW1iC7G7VLMmpO793Psbk1-XisyUh7YSuKPSBAvpmXmsSmkv3f4&usqp=CAU" alt="Typing">
+        <img src="https://uploads.spiritfanfiction.com/usuarios/jornal/uma-nao-breve-mensagem-22737131-280720211017.gif" alt="Typing">
      </div>
 
   ##
