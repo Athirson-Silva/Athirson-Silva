@@ -12,7 +12,7 @@
  - <a href="https://www.youtube.com/watch?v=NM2N3-5NBtE" style="color:white;">Time doesn't stop, so neither do I</a>
  
     <div align="center">
-        <img src="64.media.tumblr.com/4a66e84b2d31928f89a0b3dee0f9ffb8/tumblr_psdjxibeLL1t9q05y_540.gifv" alt="Typing">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDfdn7jnUNNCXbGYjhHW1iC7G7VLMmpO793Psbk1-XisyUh7YSuKPSBAvpmXmsSmkv3f4&usqp=CAU" alt="Typing">
      </div>
 
   ##
