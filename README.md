@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Frogs are amazing 
 
-### Three rhymes that define me
+### Three lines that define me
 
  - <a href="https://www.youtube.com/watch?v=Z3CnfFQENkw">I'm dying of thirst</a>
  - <a href="https://www.youtube.com/watch?v=4FO93sgY3S4">Your lines doesn't need to be great or bad, they just need to be yours</a>
