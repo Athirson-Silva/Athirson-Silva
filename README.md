@@ -12,7 +12,7 @@
  - <a href="https://www.youtube.com/watch?v=NM2N3-5NBtE" style="color:white;">Time doesn't stop, so neither do I</a>
  
     <div align="center">
-        <img src="https://https://c.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif" alt="Typing">
+        <img src="https://c.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif" alt="Typing">
      </div>
 
   ##
