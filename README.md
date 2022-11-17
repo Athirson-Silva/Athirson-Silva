@@ -10,7 +10,7 @@
 
  - <a href="https://www.youtube.com/watch?v=Z3CnfFQENkw">I'm dying of thirst</a>
  - <a href="https://www.youtube.com/watch?v=4FO93sgY3S4">Your lines doesn't need to be great or bad, they just need to be yours</a>
- - <a href="https://www.youtube.com/watch?v=NM2N3-5NBtE" style="color:white;">Time doesn't stop, so neither do I</a>
+ - <a href="https://www.youtube.com/watch?v=NM2N3-5NBtE">Time doesn't stop, so neither do I</a>
  
     <div align="center">
         <img src="https://c.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif" alt="Typing">
@@ -20,8 +20,8 @@
   
  <div style="display: flex; flex-direction: column;" height="200">
    <a href="https://github.com/Athirson-Silva">
-   <img  height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Athirson-Silva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athirson-Silva&layout=compact&langs_count=7&theme=github_dark"/>
+   <img align=top height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Athirson-Silva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   <img align=top height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athirson-Silva&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
   ##
