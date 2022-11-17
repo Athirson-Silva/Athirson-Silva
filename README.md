@@ -18,7 +18,7 @@
 
   ##
   
- <div>
+ <div style="flex-direction: row;">
    <a href="https://github.com/Athirson-Silva">
    <img align="left" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Athirson-Silva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
    <img align-"cente" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Athirson-Silva&layout=compact&langs_count=7&theme=github_dark"/>
@@ -26,7 +26,7 @@
 
   ##
   
-  <div style="flex-direction: row;">
+  <div style="display: flex; flex-direction: column;" height="200">
     <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
     <img align="center" alt="Mui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
