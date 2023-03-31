@@ -1,8 +1,8 @@
 ### Howdy! Stay a while and listen!  🐸
 
 - 🔭 I’m currently studying System Analysis and Development at Mackenzie
-- 🐸 I'm currently working at Aarim as Development Intern
-- 🌱 I’m currently learning React, C# and MySQL
+- 🐸 I'm currently working at Alvarez and Marsal as Development Intern
+- 🌱 I’m currently learning Python, C# and MySQL
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Frogs are amazing
 
